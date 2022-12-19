@@ -14,11 +14,11 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Pinterest  Video Downloader
- * Plugin URI:        https://awesomecoderss.org/
+ * Plugin URI:        https://awesomecoder.dev/
  * Description:       This is a custom plugin, You can use it for give access to user to download Pinterest Video :)
  * Version:           1.0.0
  * Author:            Mohammad Ibrahim
- * Author URI:        https://awesomecoderss.dev/
+ * Author URI:        hhttps://awesomecoder.dev/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       ac_pintrest_downloader
