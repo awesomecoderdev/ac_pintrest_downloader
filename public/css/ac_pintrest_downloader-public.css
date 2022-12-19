@@ -1,0 +1,41 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+form#pinterest_form {
+    display: flex;
+}
+
+.pinterest_container {
+    display: flex;
+    justify-content: center;
+}
+
+input#pinterest_url {
+    margin-right: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    form#pinterest_form {
+        display: grid;
+    }
+
+
+    input#pinterest_url {
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+
+}
+
+.pinterest_error {
+    text-align: center;
+}
+
+.pinterest_content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
