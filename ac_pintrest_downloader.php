@@ -17,7 +17,7 @@
  * Plugin URI:        https://awesomecoderss.org/
  * Description:       This is a custom plugin, You can use it for give access to user to download Pinterest Video :)
  * Version:           1.0.0
- * Author:            Ghazanfar Abbas
+ * Author:            Mohammad Ibrahim
  * Author URI:        https://awesomecoderss.dev/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
